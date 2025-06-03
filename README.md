@@ -6,9 +6,9 @@ Olá, eu sou Luis Eduardo Santiago 👋
 
 <p align="left">
   🚀 Engenheiro de Software Júnior | Desenvolvedor FullStack<br>
-  💡 Backend: Java e Node.js | Frontend: React/React Native<br>
+  💡 Backend: Java, Node e PHP | Frontend: React/ReactNative, Tailwind, Typescript e Javascript<br>
   🌱 Atualmente explorando novas tecnologias e aprimorando minhas habilidades.<br>
-  📫 Como me encontrar: **santiago.luiseduardo33@gmail.com** (ou use os links sociais abaixo)
+  📫 Como me encontrar: **luiseduardosantiago2006@gmail.com** (ou use os links sociais abaixo)
 </p>
 
 
